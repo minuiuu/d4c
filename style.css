@@ -1,0 +1,416 @@
+body{
+  width:100%;
+  height:100%;
+  margin:0;
+  padding:0;
+  position:relative;
+}
+
+.header-hover{
+  overflow:hidden;
+  position:fixed;
+  top:12px;
+  left: 35px;
+  width: 400px;
+  color:white;
+  font-family: 'Arvo', serif;
+  font-size: 20px;
+  font-weight:normal;
+  letter-spacing: 2px;
+}
+
+.change{
+  overflow:hidden;
+  position:fixed;
+  top:12px;
+  left:250px;
+  width: 340px;
+  color:white;
+  font-family: 'Arvo', serif;
+  font-size: 20px;
+  font-weight:normal;
+  letter-spacing: 2px;
+  content: "during"; 
+  display: block;
+  animation: animate infinite 5s; 
+  padding-left: 10px; 
+  text-align: center;
+}
+
+.header{
+  overflow:hidden;
+  position:fixed;
+  top:12px;
+  left:480px;
+  width: 500px;
+  color:white;
+  font-family: 'Arvo', serif;
+  font-size: 20px;
+  font-weight:normal;
+  letter-spacing: 2px;
+}
+
+
+.change:before {
+  content: 'during';
+  font-size: 100%;
+  animation-name: change-letter;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes change-letter {
+  5% {
+    opacity: 1;
+    content: "during"
+  }
+  20% {
+    opacity: 1;
+    content: "during"
+  }
+  30% {
+    opacity: 0;
+    content: "during"
+  }
+  40% {
+    opacity: 0;
+    content: "before"
+  }
+  50% {
+    opacity: 1;
+    content: "before"
+  }
+  60% {
+    opacity: 0;
+    content: "before"
+  }
+  70% {
+    opacity: 0;
+    content: "after"
+  }
+  80% {
+    opacity: 1;
+    content: "after"
+  }
+  90% {
+    opacity: 0;
+    content: "after"
+  }
+  95% {
+    opacity: 0;
+    content: "during"
+  }
+}
+
+.header:hover .show-text{
+  display: block;
+}
+
+/* The navigation bar */
+.navbar {
+
+  overflow: hidden;
+  background-color: #333;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 50px; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  background-color:#fff;
+  box-shadow: 5px -1px 12px -5px grey;
+}
+
+
+
+.navbar a{
+  
+  display: block;
+  float: left;
+  padding: 8px;
+  color: white;
+  text-decoration: none;
+  font-size: 13px;
+  width:23.8%;
+  text-align: center; 
+  border: 0.5px solid black;
+  font-family: 'Roboto', sans-serif;
+}
+
+@media screen and (max-width: 768px) {
+  .navbar a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: left; /* If you want the text to be left-aligned on small screens */
+  }
+}
+
+
+
+
+
+
+#a1{
+  background-color:#9A4040;
+}
+
+#a2{
+  background-color:#BA6666;
+}
+
+#a3{
+  background-color:#D58A8A;
+}
+
+#a4{
+  background-color: #C9BCBC;
+}
+
+#a5{
+  background-color: #8D8D8D;
+}
+
+
+
+.content{
+
+  width:100%;
+}
+
+.page0 {
+
+
+
+  /* Full height 
+  what is the difference between vh and % ?
+  https://stackoverflow.com/questions/544010/whats-the-difference-between-an-id-and-a-class
+  */
+  height: 100vh;
+
+  /* if child is bigger than parent, it will hide automatically */
+  overflow: hidden;
+
+  
+  background-color: gray;
+  /* transition: background 0.5s linear; */
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.page1 {
+
+
+  /* Full height 
+  what is the difference between vh and % ?
+  https://stackoverflow.com/questions/544010/whats-the-difference-between-an-id-and-a-class
+  */
+  height: 100vh;
+
+  /* if child is bigger than parent, it will hide automatically */
+  overflow: hidden;
+
+  
+  background-image: url(img/bg-1-1.svg);
+  /* transition: background 0.5s linear; */
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+/* .page1-left{
+  float:left;
+  width: 500px;
+} */
+
+.page1-right{
+  background-color: rgba(48, 48, 48, 0.589);
+  max-height:800px;
+  float:left;
+  width: 300px;
+  margin: 18vh auto auto 70vw;
+  padding-top:10px;
+  padding-right:30px;
+  padding-left:30px;
+  padding-bottom: 30px;
+}
+
+/*hover*/
+.green {
+  padding: 0;
+  opacity: 0.9;
+  width:72.5%;
+  display: none;
+  position:fixed;
+  top: 18%;
+  left: 0;
+  margin-left:4px;
+}
+
+/* .green {
+
+  opacity: 1;
+  width:100%;
+  display: none;
+  position:fixed;
+  top: 0;
+  left: 0;
+  margin-left:0;
+} */
+
+.green-hover{
+  font-family: sans-serif;
+  background-color: greenyellow;
+  padding:3px;
+}
+
+.green-hover:hover .green {
+  display: block;
+}
+
+/* .green-hover:hover .page1{
+  background-image: url(img/bg-1-2.svg);
+} */
+
+
+
+
+
+.page2-right{
+  background-color: rgba(48, 48, 48, 0.589);
+  max-height:800px;
+  float:left;
+  width: 300px;
+  margin: 18vh auto auto 70vw;
+  padding-top:10px;
+  padding-right:30px;
+  padding-left:30px;
+  padding-bottom: 10px;
+}
+
+.page3-right{
+  background-color: rgba(48, 48, 48, 0.589);
+  max-height:800px;
+  float:left;
+  width: 300px;
+  margin: 18vh auto auto 70vw;
+  padding-top:10px;
+  padding-right:30px;
+  padding-left:30px;
+  padding-bottom: 30px;
+}
+
+.page4-right{
+  background-color: rgba(48, 48, 48, 0.589);
+  max-height:800px;
+  float:left;
+  width: 300px;
+  margin: 18vh auto auto 70vw;
+  padding-top:10px;
+  padding-right:30px;
+  padding-left:30px;
+  padding-bottom: 30px;
+}
+
+h1{
+  font-size: 1.7em;
+  line-height: 1.15 ;
+  color: white;
+}
+
+p{
+  font-size:13.5px; /* 1rem=16px */
+  font-family: sans-serif;
+  color:#fff;
+  line-height: 1.5 ;
+  word-wrap: break-word;
+  width:300px;
+}
+
+
+
+/* svg {
+  position:relative;
+
+  
+} */
+
+
+
+.page2 {
+  /* The image used */
+
+
+  /* Full height 
+  what is the difference between vh and % ?
+  https://stackoverflow.com/questions/544010/whats-the-difference-between-an-id-and-a-class
+  */
+  height: 100vh;
+
+    background-image: url(img/bg-2-1.svg);
+  /* transition: background 0.5s linear; */
+
+  /* if child is bigger than parent, it will hide automatically */
+  overflow: hidden;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.page3 {
+  /* The image used */
+
+
+  /* Full height 
+  what is the difference between vh and % ?
+  https://stackoverflow.com/questions/544010/whats-the-difference-between-an-id-and-a-class
+  */
+  height: 100vh;
+
+    background-image: url(img/bg-3-1.svg);
+  /* transition: background 0.5s linear; */
+
+  /* if child is bigger than parent, it will hide automatically */
+  overflow: hidden;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.page4 {
+  /* The image used */
+
+
+  /* Full height 
+  what is the difference between vh and % ?
+  https://stackoverflow.com/questions/544010/whats-the-difference-between-an-id-and-a-class
+  */
+  height: 100vh;
+
+    background-image: url(img/bg-4-1.svg);
+  /* transition: background 0.5s linear; */
+
+  /* if child is bigger than parent, it will hide automatically */
+  overflow: hidden;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
