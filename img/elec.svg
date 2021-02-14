@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7911.97" height="6929.031" viewBox="0 0 7911.97 6929.031">
+  <g id="Group_44" data-name="Group 44" transform="translate(-3624 -10907)">
+    <g id="Rectangle_104" data-name="Rectangle 104" transform="translate(8234 10931)" fill="#ffdf2b" stroke="#707070" stroke-width="1">
+      <rect width="130" height="130" stroke="none"/>
+      <rect x="0.5" y="0.5" width="129" height="129" fill="none"/>
+    </g>
+    <g id="Rectangle_105" data-name="Rectangle 105" transform="translate(9061 10931)" fill="#aa3fc1" stroke="#707070" stroke-width="1">
+      <rect width="130" height="130" stroke="none"/>
+      <rect x="0.5" y="0.5" width="129" height="129" fill="none"/>
+    </g>
+    <g id="Rectangle_106" data-name="Rectangle 106" transform="translate(9933 10931)" fill="#a5a9ff" stroke="#707070" stroke-width="1">
+      <rect width="130" height="130" stroke="none"/>
+      <rect x="0.5" y="0.5" width="129" height="129" fill="none"/>
+    </g>
+    <g id="Rectangle_107" data-name="Rectangle 107" transform="translate(10731 10907)" stroke="#707070" stroke-width="1">
+      <rect width="517" height="178" stroke="none"/>
+      <rect x="0.5" y="0.5" width="516" height="177" fill="none"/>
+    </g>
+    <text id="Rural" transform="translate(8432 11031)" fill="#fff" font-size="130" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">Rural</tspan></text>
+    <text id="Urban" transform="translate(9260 11031)" fill="#fff" font-size="130" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">Urban</tspan></text>
+    <text id="Total" transform="translate(10133 11031)" fill="#fff" font-size="130" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">Total</tspan></text>
+    <text id="_2018" data-name="2018" transform="translate(10845 11031)" fill="#fff" font-size="130" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">2018</tspan></text>
+    <line id="Line_14" data-name="Line 14" y2="6103" transform="translate(5079.82 11355)" fill="none" stroke="#b5b5b5" stroke-width="5"/>
+    <line id="Line_15" data-name="Line 15" y2="6103" transform="translate(5779.462 11355)" fill="none" stroke="#b5b5b5" stroke-width="5"/>
+    <line id="Line_16" data-name="Line 16" y2="6103" transform="translate(6479.104 11355)" fill="none" stroke="#b5b5b5" stroke-width="5"/>
+    <line id="Line_17" data-name="Line 17" y2="6103" transform="translate(7176.573 11355)" fill="none" stroke="#b5b5b5" stroke-width="5"/>
+    <line id="Line_18" data-name="Line 18" y2="6103" transform="translate(7876.215 11355)" fill="none" stroke="#b5b5b5" stroke-width="5"/>
+    <line id="Line_19" data-name="Line 19" y2="6103" transform="translate(8575.856 11355)" fill="none" stroke="#b5b5b5" stroke-width="5"/>
+    <line id="Line_20" data-name="Line 20" y2="6103" transform="translate(9275.499 11355)" fill="none" stroke="#b5b5b5" stroke-width="5"/>
+    <line id="Line_21" data-name="Line 21" y2="6103" transform="translate(9975.499 11355)" fill="none" stroke="#b5b5b5" stroke-width="5"/>
+    <line id="Line_22" data-name="Line 22" y2="6103" transform="translate(10672.499 11355)" fill="none" stroke="#b5b5b5" stroke-width="5"/>
+    <line id="Line_23" data-name="Line 23" y2="6103" transform="translate(11372.499 11355)" fill="none" stroke="#b5b5b5" stroke-width="5"/>
+    <text id="Rwanda" transform="translate(3767 16301)" fill="#fff" font-size="130" font-family="Helvetica" letter-spacing="0.05em"><tspan x="0" y="0">Rwanda</tspan></text>
+    <text id="Zambia" transform="translate(3811 17363)" fill="#fff" font-size="130" font-family="Helvetica" letter-spacing="0.05em"><tspan x="0" y="0">Zambia</tspan></text>
+    <text id="Niger" transform="translate(3941 15770)" fill="#fff" font-size="130" font-family="Helvetica" letter-spacing="0.05em"><tspan x="0" y="0">Niger</tspan></text>
+    <text id="Uganda" transform="translate(3789 16832)" fill="#fff" font-size="130" font-family="Helvetica" letter-spacing="0.05em"><tspan x="0" y="0">Uganda</tspan></text>
+    <text id="Mali" transform="translate(4019 15239)" fill="#fff" font-size="130" font-family="Helvetica" letter-spacing="0.05em"><tspan x="0" y="0">Mali</tspan></text>
+    <text id="Burundi" transform="translate(3814 11521)" fill="#fff" font-size="130" font-family="Helvetica" letter-spacing="0.05em"><tspan x="0" y="0">Burundi</tspan></text>
+    <text id="Malawi" transform="translate(3839 14708)" fill="#fff" font-size="130" font-family="Helvetica" letter-spacing="0.05em"><tspan x="0" y="0">Malawi</tspan></text>
+    <text id="Lesotho" transform="translate(3774 14176)" fill="#fff" font-size="130" font-family="Helvetica" letter-spacing="0.05em"><tspan x="0" y="0">Lesotho</tspan></text>
+    <text id="Ethiopia" transform="translate(3761 13645)" fill="#fff" font-size="130" font-family="Helvetica" letter-spacing="0.05em"><tspan x="0" y="0">Ethiopia</tspan></text>
+    <text id="Cameroon" transform="translate(3624 12583)" fill="#fff" font-size="130" font-family="Helvetica" letter-spacing="0.05em"><tspan x="0" y="0">Cameroon</tspan></text>
+    <text id="Chad" transform="translate(3948 13114)" fill="#fff" font-size="130" font-family="Helvetica" letter-spacing="0.05em"><tspan x="0" y="0">Chad</tspan></text>
+    <text id="Benin" transform="translate(3919 12052)" fill="#fff" font-size="130" font-family="Helvetica" letter-spacing="0.05em"><tspan x="0" y="0">Benin</tspan></text>
+    <text id="_10_" data-name="10%" transform="translate(4966.292 17811.031)" fill="#fff" font-size="108" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">10%</tspan></text>
+    <text id="_20_" data-name="20%" transform="translate(5665.933 17811.031)" fill="#fff" font-size="108" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">20%</tspan></text>
+    <text id="_30_" data-name="30%" transform="translate(6365.575 17811.031)" fill="#fff" font-size="108" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">30%</tspan></text>
+    <text id="_40_" data-name="40%" transform="translate(7063.044 17811.031)" fill="#fff" font-size="108" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">40%</tspan></text>
+    <text id="_50_" data-name="50%" transform="translate(7762.686 17811.031)" fill="#fff" font-size="108" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">50%</tspan></text>
+    <text id="_60_" data-name="60%" transform="translate(8462.328 17811.031)" fill="#fff" font-size="108" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">60%</tspan></text>
+    <text id="_70_" data-name="70%" transform="translate(9161.97 17811.031)" fill="#fff" font-size="108" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">70%</tspan></text>
+    <text id="_80_" data-name="80%" transform="translate(9861.97 17811.031)" fill="#fff" font-size="108" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">80%</tspan></text>
+    <text id="_90_" data-name="90%" transform="translate(10558.97 17811.031)" fill="#fff" font-size="108" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">90%</tspan></text>
+    <text id="_100_" data-name="100%" transform="translate(11258.97 17811.031)" fill="#fff" font-size="108" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">100%</tspan></text>
+    <g id="Group_32" data-name="Group 32" transform="translate(0 -9)">
+      <rect id="Rectangle_82" data-name="Rectangle 82" width="163" height="87" transform="translate(4384 11364)" fill="#ffdf2b"/>
+      <rect id="Rectangle_83" data-name="Rectangle 83" width="4259" height="87" transform="translate(4384 11451)" fill="#aa3fc1"/>
+      <rect id="Rectangle_92" data-name="Rectangle 92" width="798" height="87" transform="translate(4384 11538)" fill="#a5a9ff"/>
+    </g>
+    <g id="Group_33" data-name="Group 33" transform="translate(0 18)">
+      <rect id="Rectangle_58" data-name="Rectangle 58" width="1186" height="86" transform="translate(4384 11868)" fill="#ffdf2b"/>
+      <rect id="Rectangle_69" data-name="Rectangle 69" width="3787" height="87" transform="translate(4384 11954)" fill="#aa3fc1"/>
+      <rect id="Rectangle_93" data-name="Rectangle 93" width="2845" height="87" transform="translate(4384 12041)" fill="#a5a9ff"/>
+    </g>
+    <g id="Group_34" data-name="Group 34" transform="translate(0 137)">
+      <rect id="Rectangle_70" data-name="Rectangle 70" width="1636" height="87" transform="translate(4384 12280)" fill="#ffdf2b"/>
+      <rect id="Rectangle_71" data-name="Rectangle 71" width="6517" height="87" transform="translate(4384 12367)" fill="#aa3fc1"/>
+      <rect id="Rectangle_94" data-name="Rectangle 94" width="4302" height="87" transform="translate(4384 12454)" fill="#a5a9ff"/>
+    </g>
+    <g id="Group_35" data-name="Group 35" transform="translate(0 244)">
+      <rect id="Rectangle_72" data-name="Rectangle 72" width="163" height="87" transform="translate(4384 12704)" fill="#ffdf2b"/>
+      <rect id="Rectangle_73" data-name="Rectangle 73" width="2934" height="87" transform="translate(4384 12791)" fill="#aa3fc1"/>
+      <rect id="Rectangle_95" data-name="Rectangle 95" width="843" height="87" transform="translate(4384 12878)" fill="#a5a9ff"/>
+    </g>
+    <g id="Group_36" data-name="Group 36" transform="translate(0 362)">
+      <rect id="Rectangle_74" data-name="Rectangle 74" width="2253" height="87" transform="translate(4384 13117)" fill="#ffdf2b"/>
+      <rect id="Rectangle_75" data-name="Rectangle 75" width="6489" height="87" transform="translate(4384 13204)" fill="#aa3fc1"/>
+      <rect id="Rectangle_96" data-name="Rectangle 96" width="3162" height="87" transform="translate(4384 13291)" fill="#a5a9ff"/>
+    </g>
+    <g id="Group_37" data-name="Group 37" transform="translate(0 58)">
+      <rect id="Rectangle_74-2" data-name="Rectangle 74" width="1430" height="87" transform="translate(4384 13953)" fill="#ffdf2b"/>
+      <rect id="Rectangle_75-2" data-name="Rectangle 75" width="4917" height="87" transform="translate(4384 14040)" fill="#aa3fc1"/>
+      <rect id="Rectangle_97" data-name="Rectangle 97" width="3246" height="87" transform="translate(4383 14127)" fill="#a5a9ff"/>
+    </g>
+    <g id="Group_38" data-name="Group 38" transform="translate(0 176)">
+      <rect id="Rectangle_78" data-name="Rectangle 78" width="739" height="87" transform="translate(4384 14366)" fill="#ffdf2b"/>
+      <rect id="Rectangle_79" data-name="Rectangle 79" width="3850" height="87" transform="translate(4384 14453)" fill="#aa3fc1"/>
+      <rect id="Rectangle_98" data-name="Rectangle 98" width="1192" height="87" transform="translate(4383 14540)" fill="#a5a9ff"/>
+    </g>
+    <g id="Group_39" data-name="Group 39" transform="translate(0 86)">
+      <rect id="Rectangle_80" data-name="Rectangle 80" width="1772" height="87" transform="translate(4384 14988)" fill="#ffdf2b"/>
+      <rect id="Rectangle_81" data-name="Rectangle 81" width="5959" height="87" transform="translate(4384 15075)" fill="#aa3fc1"/>
+      <rect id="Rectangle_99" data-name="Rectangle 99" width="3547" height="87" transform="translate(4383 15162)" fill="#a5a9ff"/>
+    </g>
+    <g id="Group_40" data-name="Group 40" transform="translate(0 -220)">
+      <rect id="Rectangle_84" data-name="Rectangle 84" width="798" height="86" transform="translate(4384 15825)" fill="#ffdf2b"/>
+      <rect id="Rectangle_100" data-name="Rectangle 100" width="1213" height="87" transform="translate(4383 15998)" fill="#a5a9ff"/>
+      <rect id="Rectangle_85" data-name="Rectangle 85" width="3275" height="87" transform="translate(4384 15911)" fill="#aa3fc1"/>
+    </g>
+    <g id="Group_42" data-name="Group 42" transform="translate(0 -96)">
+      <rect id="Rectangle_88" data-name="Rectangle 88" width="1710" height="86" transform="translate(4384 16763)" fill="#ffdf2b"/>
+      <rect id="Rectangle_102" data-name="Rectangle 102" width="3012" height="87" transform="translate(4383 16936)" fill="#a5a9ff"/>
+      <rect id="Rectangle_89" data-name="Rectangle 89" width="3981" height="87" transform="translate(4384 16849)" fill="#aa3fc1"/>
+    </g>
+    <g id="Group_41" data-name="Group 41" transform="translate(0 -124)">
+      <rect id="Rectangle_86" data-name="Rectangle 86" width="1359" height="87" transform="translate(4384 16259)" fill="#ffdf2b"/>
+      <rect id="Rectangle_101" data-name="Rectangle 101" width="2451" height="87" transform="translate(4383 16433)" fill="#a5a9ff"/>
+      <rect id="Rectangle_87" data-name="Rectangle 87" width="6209" height="87" transform="translate(4384 16346)" fill="#aa3fc1"/>
+    </g>
+    <g id="Group_43" data-name="Group 43">
+      <rect id="Rectangle_90" data-name="Rectangle 90" width="1003" height="87" transform="translate(4384 17197)" fill="#ffdf2b"/>
+      <rect id="Rectangle_103" data-name="Rectangle 103" width="2760" height="87" transform="translate(4383 17371)" fill="#a5a9ff"/>
+      <rect id="Rectangle_91" data-name="Rectangle 91" width="5381" height="87" transform="translate(4384 17284)" fill="#aa3fc1"/>
+    </g>
+  </g>
+</svg>
