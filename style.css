@@ -391,6 +391,18 @@ body{
   padding-bottom: 30px;
 }
 
+.page0-right{
+  background-color: rgba(48, 48, 48, 0.589);
+  max-height:800px;
+  float:left;
+  width: 300px;
+  margin: 30vh auto auto 70vw;
+  padding-top:10px;
+  padding-right:30px;
+  padding-left:30px;
+  padding-bottom: 30px;
+}
+
 h1{
   font-size: 1.7em;
   line-height: 1.15 ;
@@ -406,6 +418,25 @@ p{
   width:300px;
 }
 
+#h0 {
+
+    font-size: 2.4em;
+    line-height: 1.15 ;
+    color: white;
+
+}
+
+.text0 {
+    font-size:15px; /* 1rem=16px */
+    font-family: sans-serif;
+    color:#fff;
+    line-height: 1.9 ;
+    word-wrap: break-word;
+    width:300px;
+  }
+
+
+=
 
 
 /* svg {
@@ -474,6 +505,31 @@ p{
   height: 100vh;
 
     background-image: url(img/bg-4-1.svg);
+  /* transition: background 0.5s linear; */
+
+  /* if child is bigger than parent, it will hide automatically */
+  overflow: hidden;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+
+.page0 {
+  /* The image used */
+
+
+  /* Full height 
+  what is the difference between vh and % ?
+  https://stackoverflow.com/questions/544010/whats-the-difference-between-an-id-and-a-class
+  */
+  height: 100vh;
+
+    background-image: url(img/page0.svg);
   /* transition: background 0.5s linear; */
 
   /* if child is bigger than parent, it will hide automatically */
